@@ -1,0 +1,11 @@
+{
+  "symbol": "JPM",
+  "trained_at": "2026-03-10T17:37:36.703931",
+  "rows_trained": 467,
+  "train_size": 373,
+  "test_size": 94,
+  "mape": 2.63,
+  "mae": 8.292,
+  "rmse": 10.391,
+  "confidence": 97.4
+}

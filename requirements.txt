@@ -1,0 +1,30 @@
+# Flask
+flask
+flask-cors
+flask-jwt-extended
+flask-caching
+python-dotenv
+
+# Data
+yfinance
+pandas
+numpy
+
+# Technical Analysis
+ta
+
+# Machine Learning
+xgboost
+scikit-learn
+joblib
+
+# Sentiment
+vaderSentiment
+
+# Finnhub
+finnhub-python
+
+# Utilities
+requests
+
+upstash-redis

@@ -1,0 +1,11 @@
+{
+  "symbol": "MSFT",
+  "trained_at": "2026-03-10T17:22:51.458088",
+  "rows_trained": 467,
+  "train_size": 373,
+  "test_size": 94,
+  "mape": 2.58,
+  "mae": 11.9008,
+  "rmse": 15.4065,
+  "confidence": 97.4
+}

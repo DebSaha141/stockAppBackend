@@ -1,0 +1,11 @@
+{
+  "symbol": "AAPL",
+  "trained_at": "2026-03-08T20:32:35.174853",
+  "rows_trained": 467,
+  "train_size": 373,
+  "test_size": 94,
+  "mape": 7.79,
+  "mae": 20.9927,
+  "rmse": 21.9348,
+  "confidence": 92.2
+}

@@ -1,0 +1,11 @@
+{
+  "symbol": "TSLA",
+  "trained_at": "2026-03-10T17:29:05.717593",
+  "rows_trained": 467,
+  "train_size": 373,
+  "test_size": 94,
+  "mape": 7.07,
+  "mae": 31.1694,
+  "rmse": 35.0175,
+  "confidence": 92.9
+}

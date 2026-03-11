@@ -1,0 +1,7 @@
+venv/
+.env
+model/saved/*.pkl
+__pycache__/
+*.pyc
+.DS_Store
+test_model.py

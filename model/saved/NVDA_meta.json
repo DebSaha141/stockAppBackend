@@ -1,0 +1,11 @@
+{
+  "symbol": "NVDA",
+  "trained_at": "2026-03-10T17:21:32.226943",
+  "rows_trained": 467,
+  "train_size": 373,
+  "test_size": 94,
+  "mape": 3.42,
+  "mae": 6.4987,
+  "rmse": 8.1847,
+  "confidence": 96.6
+}

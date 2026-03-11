@@ -1,0 +1,30 @@
+stock-ai-backend/
+│
+├── app.py                    # Flask entry point
+├── config.py                 # API keys, settings
+├── requirements.txt          # All dependencies
+│
+├── model/
+│   ├── train.py              # Training script
+│   ├── predict.py            # Prediction logic
+│   ├── features.py           # Feature engineering
+│   └── saved/                # Saved .pkl model files
+│       ├── AAPL_model.pkl
+│       ├── TSLA_model.pkl
+│       └── ...
+│
+├── routes/
+│   ├── stock_routes.py       # /api/stock endpoints
+│   ├── prediction_routes.py  # /api/predict endpoints
+│   ├── news_routes.py        # /api/news endpoints
+│   ├── dashboard_routes.py   # /api/dashboard endpoints
+│   └── auth_routes.py        # /api/auth endpoints
+│
+├── services/
+│   ├── finnhub_service.py    # All Finnhub API calls
+│   ├── yfinance_service.py   # All yfinance calls
+│   └── sentiment_service.py  # VADER sentiment logic
+│
+└── utils/
+    ├── cache.py              # Simple caching layer
+    └── helpers.py            # Common helper functions

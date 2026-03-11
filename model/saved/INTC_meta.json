@@ -1,0 +1,11 @@
+{
+  "symbol": "INTC",
+  "trained_at": "2026-03-10T17:22:29.596887",
+  "rows_trained": 467,
+  "train_size": 373,
+  "test_size": 94,
+  "mape": 20.89,
+  "mae": 9.0574,
+  "rmse": 10.1701,
+  "confidence": 79.1
+}

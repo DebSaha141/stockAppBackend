@@ -1,0 +1,11 @@
+{
+  "symbol": "AMZN",
+  "trained_at": "2026-03-10T17:35:16.357119",
+  "rows_trained": 467,
+  "train_size": 373,
+  "test_size": 94,
+  "mape": 2.71,
+  "mae": 6.275,
+  "rmse": 7.6787,
+  "confidence": 97.3
+}
